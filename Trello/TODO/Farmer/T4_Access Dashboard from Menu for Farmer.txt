@@ -1,0 +1,1 @@
+As a Farmer, I want to access the dashboard page so that I view my home to get access to all the available features.
